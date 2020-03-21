@@ -1,5 +1,7 @@
 # Data Science Bootcamp Pre-work Revision 2019
 
+# Edited by Han Lee, 03/21/2020
+
 **Table of Contents**
 
 [1. Computer Requirements](#section-a)  
