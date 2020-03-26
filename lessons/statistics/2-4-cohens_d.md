@@ -1,6 +1,6 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
-m1 = firsts.totalwgt_lb.mean()
+m1 = firsts.totalwgt_lb.mean() \n
 m2 = others.totalwgt_lb.mean()
 var1 = firsts.totalwgt_lb.var()
 var2 = others.totalwgt_lb.var()
