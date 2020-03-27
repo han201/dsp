@@ -26,8 +26,18 @@ thinkplot.PrePlot(2)
 
 thinkplot.Pmfs([pmf, biased])
 
+
 thinkplot.Config(xlabel='Number of children', ylabel='PMF')
 
 pmf.Mean()
 
+1.024205155043831
+
 biased.Mean()
+
+2.403679100664282
+
+# Indeed the biased mean is 1.4 higher!
+
+
+#Indeed the biased PMF 
