@@ -18,4 +18,4 @@ thinkplot.PrePlot(2)
 thinkplot.Cdf(sampl_cdf) 
 thinkplot.Show(xlabel='random numbers', ylabel='CDF')
 
-#Yes, pmf shows uniform distribution (constant line), and CDF shows 45 degree linear line, confirming the uniform distribution
+# Yes, pmf shows uniform distribution (constant line), and CDF shows 45 degree linear line, confirming the uniform distribution
