@@ -40,4 +40,3 @@ biased.Mean()
 # Indeed the biased mean is 1.4 higher!
 
 
-#Indeed the biased PMF 
