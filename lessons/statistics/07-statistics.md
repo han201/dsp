@@ -94,7 +94,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+While both frequentist and Bayseian relies on mentla models, Baysian has additional asumptions based on the prior observations or reasoning, so that their model is more restrictive.
 
 ---
 
